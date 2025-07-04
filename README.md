@@ -1,4 +1,6 @@
-[![Rabbit](images/rabbit.png)](files/file1.pdf)  
-[![Cat](images/cat.png)](files/file2.pdf)  
-[![Pig](images/pig.png)](files/file3.pdf)  
-[![Dog](images/dog.png)]
+### 🐾 Click an animal to open a file:
+
+[![Dog](dog/images.png)](dog/file.pdf)  
+[![Rabbit](rabbit/images.png)](rabbit/file.pdf)  
+[![Bird](bird/images.png)](bird/file.pdf)  
+[![Pig](pig/images.png)](pig/file.pdf)
